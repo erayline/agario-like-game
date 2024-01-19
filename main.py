@@ -20,6 +20,7 @@ ses6 = pygame.mixer.Sound("pop7.wav")
 sesListesi = [ses1,ses2,ses4,ses6]
 
 
+
 WIDTH, HEIGHT = 1700, 800
 MYCOLOR = (10,10,40)
 FPS = 60
