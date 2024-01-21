@@ -10,7 +10,7 @@ from pygame import mixer
 import os
 import random
 import math
-skor=0
+skor=0 
 pygame.init()
 
 ses1 = pygame.mixer.Sound("pop1.wav")
