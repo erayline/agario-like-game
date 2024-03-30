@@ -17,6 +17,7 @@ ses1 = pygame.mixer.Sound("pop1.wav")
 ses2 = pygame.mixer.Sound("pop3.wav")
 ses4 = pygame.mixer.Sound("pop5.wav")
 ses6 = pygame.mixer.Sound("pop7.wav")
+
 sesListesi = [ses1,ses2,ses4,ses6]
 
 
